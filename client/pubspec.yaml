@@ -28,8 +28,9 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.3
 
-  # chartjs
+  # user add
   flutter_web_chartjs: ^0.2.5
+  firebase_database: ^3.1.3
 
 dev_dependencies:
   flutter_test:
